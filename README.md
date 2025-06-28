@@ -112,4 +112,6 @@ Each task was implemented as a separate MapReduce job using `MRJob`. Results wer
 
 ---
 
-
+## Author
+Tiyasa Mukherjee
+AI Engineer | Data Scientist | Generative AI Enthusiast
